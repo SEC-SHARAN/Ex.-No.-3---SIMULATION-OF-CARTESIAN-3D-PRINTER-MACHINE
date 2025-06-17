@@ -50,8 +50,8 @@
 ## OUTPUT
 ![Screenshot 2025-04-24 152830](https://github.com/user-attachments/assets/0180cd52-8601-490c-878e-95c88fc0ce83)
 
-### Name: VISHWA V
-### Register Number: 212224110062
+### Name: SHARAN S
+### Register Number: 212224040309
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
